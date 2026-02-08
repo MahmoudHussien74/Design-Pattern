@@ -1,8 +1,0 @@
-is_global = true
-build_property.RootNamespace = Singleton.SingletonLazyLoading_
-build_property.ProjectDir = D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
