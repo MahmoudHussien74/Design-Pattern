@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BB3CB1-7940-405A-897D-5E5ADBBBB4E8}|..\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj|d:\\asp.net\\design pattern\\singleton\\singleton.singletonlazyloading\\memorylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BB3CB1-7940-405A-897D-5E5ADBBBB4E8}|..\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj|d:\\asp.net\\design pattern\\singleton\\singleton.singletonlazyloading\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BB3CB1-7940-405A-897D-5E5ADBBBB4E8}|..\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj|d:\\asp.net\\design pattern\\singleton\\singleton.singletonlazyloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BB3CB1-7940-405A-897D-5E5ADBBBB4E8}|..\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj|d:\\asp.net\\design pattern\\singleton\\singleton.singletonlazyloading\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819D0CAD-416A-44E6-9646-4498F09265E4}|..\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj|d:\\asp.net\\design pattern\\singleton\\singleton.singletoneagerloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\LogMessage.cs",
+              "RelativeDocumentMoniker": "..\\Singleton.SingletonLazyLoading\\LogMessage.cs",
+              "ToolTip": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\LogMessage.cs",
+              "RelativeToolTip": "..\\Singleton.SingletonLazyLoading\\LogMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:27:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\LogType.cs",
+              "RelativeDocumentMoniker": "..\\Singleton.SingletonLazyLoading\\LogType.cs",
+              "ToolTip": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\LogType.cs",
+              "RelativeToolTip": "..\\Singleton.SingletonLazyLoading\\LogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:27:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryLogger.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\MemoryLogger.cs",
+              "RelativeDocumentMoniker": "..\\Singleton.SingletonLazyLoading\\MemoryLogger.cs",
+              "ToolTip": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\MemoryLogger.cs",
+              "RelativeToolTip": "..\\Singleton.SingletonLazyLoading\\MemoryLogger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:27:16.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Singleton.SingletonLazyLoading\\Program.cs",
+              "ToolTip": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonLazyLoading\\Program.cs",
+              "RelativeToolTip": "..\\Singleton.SingletonLazyLoading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:26:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonEagerLoading\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Singleton.SingletonEagerLoading\\Program.cs",
+              "ToolTip": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.SingletonEagerLoading\\Program.cs",
+              "RelativeToolTip": "..\\Singleton.SingletonEagerLoading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:25:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAcwJsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-08T00:23:23.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

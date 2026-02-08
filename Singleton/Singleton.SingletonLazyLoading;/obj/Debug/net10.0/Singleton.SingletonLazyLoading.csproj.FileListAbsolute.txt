@@ -1,0 +1,14 @@
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\bin\Debug\net10.0\Singleton.SingletonLazyLoading.exe
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\bin\Debug\net10.0\Singleton.SingletonLazyLoading.deps.json
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\bin\Debug\net10.0\Singleton.SingletonLazyLoading.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\bin\Debug\net10.0\Singleton.SingletonLazyLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\bin\Debug\net10.0\Singleton.SingletonLazyLoading.pdb
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\refint\Singleton.SingletonLazyLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.pdb
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\Singleton.SingletonLazyLoading.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonLazyLoading;\obj\Debug\net10.0\ref\Singleton.SingletonLazyLoading.dll

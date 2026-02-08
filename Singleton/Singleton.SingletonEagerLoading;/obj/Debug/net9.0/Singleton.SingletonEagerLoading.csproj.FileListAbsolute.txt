@@ -1,0 +1,14 @@
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\bin\Debug\net9.0\Singleton.SingletonEagerLoading.exe
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\bin\Debug\net9.0\Singleton.SingletonEagerLoading.deps.json
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\bin\Debug\net9.0\Singleton.SingletonEagerLoading.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\bin\Debug\net9.0\Singleton.SingletonEagerLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\bin\Debug\net9.0\Singleton.SingletonEagerLoading.pdb
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\refint\Singleton.SingletonEagerLoading.dll
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.pdb
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\Singleton.SingletonEagerLoading.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Singleton\Singleton.SingletonEagerLoading;\obj\Debug\net9.0\ref\Singleton.SingletonEagerLoading.dll

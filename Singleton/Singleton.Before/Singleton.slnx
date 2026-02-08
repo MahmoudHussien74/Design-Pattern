@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Singleton.NotThreadSafe/Singleton.NotThreadSafe.csproj" />
+  <Project Path="../Singleton.SingletonEagerLoading/Singleton.SingletonEagerLoading.csproj" />
+  <Project Path="../Singleton.SingletonLazyLoading/Singleton.SingletonLazyLoading.csproj" />
+  <Project Path="../Singleton.ThreadSafeUsingDoubkeCheckedLock/Singleton.ThreadSafeUsingDoubkeCheckedLock.csproj" />
+  <Project Path="../Singleton.ThreadSafeUsingLock/Singleton.ThreadSafeUsingLock.csproj" />
+  <Project Path="Singleton.Start.csproj" />
+</Solution>
