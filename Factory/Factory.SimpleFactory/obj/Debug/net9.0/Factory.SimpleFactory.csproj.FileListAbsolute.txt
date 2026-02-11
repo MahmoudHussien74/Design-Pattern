@@ -1,0 +1,15 @@
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\bin\Debug\net9.0\Factory.SimpleFactory.exe
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\bin\Debug\net9.0\Factory.SimpleFactory.deps.json
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\bin\Debug\net9.0\Factory.SimpleFactory.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\bin\Debug\net9.0\Factory.SimpleFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\bin\Debug\net9.0\Factory.SimpleFactory.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.sourcelink.json
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\refint\Factory.SimpleFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\Factory.SimpleFactory.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.SimpleFactory\obj\Debug\net9.0\ref\Factory.SimpleFactory.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Factory.AbstractFactory/Factory.AbstractFactory.csproj" />
+  <Project Path="../Factory.FactoryMethod/Factory.FactoryMethod.csproj" />
+  <Project Path="../Factory.SimpleFactory/Factory.SimpleFactory.csproj" />
+  <Project Path="Factory.Start.csproj" />
+</Solution>

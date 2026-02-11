@@ -1,0 +1,15 @@
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\bin\Debug\net9.0\Factory.Start.exe
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\bin\Debug\net9.0\Factory.Start.deps.json
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\bin\Debug\net9.0\Factory.Start.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\bin\Debug\net9.0\Factory.Start.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\bin\Debug\net9.0\Factory.Start.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.sourcelink.json
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\refint\Factory.Start.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\Factory.Start.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.Before\obj\Debug\net9.0\ref\Factory.Start.dll

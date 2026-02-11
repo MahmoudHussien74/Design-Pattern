@@ -1,0 +1,15 @@
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\bin\Debug\net9.0\Factory.AbstractFactory.exe
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\bin\Debug\net9.0\Factory.AbstractFactory.deps.json
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\bin\Debug\net9.0\Factory.AbstractFactory.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\bin\Debug\net9.0\Factory.AbstractFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\bin\Debug\net9.0\Factory.AbstractFactory.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.sourcelink.json
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\refint\Factory.AbstractFactory.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\Factory.AbstractFactory.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.AbstractFactory\obj\Debug\net9.0\ref\Factory.AbstractFactory.dll

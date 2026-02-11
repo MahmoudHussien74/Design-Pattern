@@ -1,0 +1,15 @@
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\bin\Debug\net9.0\Factory.FactoryMethod.exe
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\bin\Debug\net9.0\Factory.FactoryMethod.deps.json
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\bin\Debug\net9.0\Factory.FactoryMethod.runtimeconfig.json
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\bin\Debug\net9.0\Factory.FactoryMethod.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\bin\Debug\net9.0\Factory.FactoryMethod.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.AssemblyInfoInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.AssemblyInfo.cs
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.sourcelink.json
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\refint\Factory.FactoryMethod.dll
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.pdb
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\Factory.FactoryMethod.genruntimeconfig.cache
+D:\Asp.Net\Design Pattern\Factory\Factory.FactoryMethod\obj\Debug\net9.0\ref\Factory.FactoryMethod.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RC9xSCxqiXI=",
+  "dgSpecHash": "izvb+IhIs0E=",
   "success": true,
-  "projectFilePath": "D:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.NotThreadSafe\\Singleton.NotThreadSafe.csproj",
+  "projectFilePath": "d:\\Asp.Net\\Design Pattern\\Singleton\\Singleton.NotThreadSafe\\Singleton.NotThreadSafe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
