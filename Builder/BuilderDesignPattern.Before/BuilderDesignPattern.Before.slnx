@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../BuilderDesignPattern.After/BuilderDesignPattern.After.csproj" />
+  <Project Path="BuilderDesignPattern.Before.csproj" />
+</Solution>
