@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../StrategyDesignPattern.After/StrategyDesignPattern.After.csproj" />
+  <Project Path="StrategyDesignPattern.Before.csproj" />
+</Solution>

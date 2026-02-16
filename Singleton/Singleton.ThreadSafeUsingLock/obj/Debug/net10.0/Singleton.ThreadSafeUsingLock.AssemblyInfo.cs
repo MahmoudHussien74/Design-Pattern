@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Singleton.ThreadSafeUsingLock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ad519f145d108233595860163ac3b7ee08628d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143ac35b08aa7bb62233530d8b30295822e254ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Singleton.ThreadSafeUsingLock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Singleton.ThreadSafeUsingLock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
